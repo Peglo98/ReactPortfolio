@@ -17,8 +17,8 @@ const projects = [
       "A simple investment calculator built with React and Vite, deployed on Vercel.",
     image: "/projects/project2.png",
     tags: ["React", "Vite", "CSS"],
-    demoUrl: "https://github.com/Peglo98/Investment-Calculator",
-    githubUrl: "https://investment-calculator-ruby-eight.vercel.app/",
+    demoUrl: "https://investment-calculator-ruby-eight.vercel.app/",
+    githubUrl: "https://github.com/Peglo98/Investment-Calculator",
   },
   {
     id: 3,
@@ -27,8 +27,8 @@ const projects = [
       "A simple demonstration React application built with Vite and deployed on Vercel.",
     image: "/projects/project3.png",
     tags: ["React", "Vite", "CSS"],
-    demoUrl: "https://github.com/Peglo98/React-Demo-App/",
-    githubUrl: "https://react-demo-app-xi.vercel.app/",
+    demoUrl: "https://react-demo-app-xi.vercel.app/",
+    githubUrl: "https://github.com/Peglo98/React-Demo-App/",
   },
   {
     id: 4,
